@@ -1,0 +1,14 @@
+remote_theme: pages-themes/cayman@v0.2.0
+title: AuditFlow 
+description: Automated Compliance-as-Docs Engine
+
+# This section creates your navigation links
+nav_links:
+  - title: Home
+    url: /
+  - title: Roadmap
+    url: /ROADMAP.md
+  - title: Contributing
+    url: /CONTRIBUTING.md
+  - title: Security
+    url: /SECURITY.md
