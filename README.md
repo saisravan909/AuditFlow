@@ -1,27 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saisravan909/AuditFlow/main/img/logo.png" alt="AuditFlow Logo" width="250">
-</p>
-
-<h1 align="center">AuditFlow </h1>
-
-<p align="center">
-  <strong>Automated Compliance-as-Docs Engine</strong><br>
-  <em>Bridging the gap between Engineering Reality and Regulatory Requirements.</em>
-</p>
-
-<p align="center">
-  <strong>Automated Compliance-as-Docs Engine</strong><br>
-  <em>Bridging the gap between Engineering Reality and Regulatory Requirements.</em>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License">
-  <img src="https://img.shields.io/badge/Status-Alpha-orange.svg" alt="Status">
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" alt="PRs Welcome">
-</p>
-
----
-
 ## The Problem
 Enterprise and Federal teams spend thousands of hours manually updating compliance spreadsheets (SOC2, ISO 27001, FedRAMP). By the time an auditor sees the documentation, it is often outdated because the infrastructure has already changed. This creates **Audit Risk** and **Developer Burnout**.
 
