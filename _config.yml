@@ -1,11 +1,11 @@
 remote_theme: pages-themes/cayman@v0.2.0
-title: AuditFlow 
+title: AuditFlow 🌊
 description: Automated Compliance-as-Docs Engine
 
-# This points directly to your beautiful new logo
+# This places your logo in the header area correctly for the theme
 logo: https://raw.githubusercontent.com/saisravan909/AuditFlow/main/img/logo.png
 
-# This creates your professional navigation bar at the top
+# This creates the professional top navigation bar
 nav_links:
   - title: "Home"
     url: /
