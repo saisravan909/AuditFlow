@@ -1,9 +1,8 @@
-
 <p align="center">
-  <img src="img/logo.png" alt="AuditFlow Logo" width="200">
+  <img src="./img/logo.png" alt="AuditFlow Logo" width="200">
 </p>
 
-<h1 align="center">AuditFlow </h1>
+<h1 align="center">AuditFlow 🌊</h1>
 
 <p align="center">
   <strong>Automated Compliance-as-Docs Engine</strong><br>
@@ -49,7 +48,7 @@ We are currently in the **Alpha Phase**. Our goal is a stable V1.0 by late 2026.
 ## Contributing
 **We are looking for technical partners!** AuditFlow was founded with a strong product vision, and we are now seeking DevOps engineers and Security Architects to help build the scanning engine.
 
-Please read our [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+Please read our [Contributing Guide](CONTRIBUTING.md) to get started.
 
 ## License
 This project is licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE) file for details.
