@@ -2,13 +2,16 @@ remote_theme: pages-themes/cayman@v0.2.0
 title: AuditFlow 
 description: Automated Compliance-as-Docs Engine
 
-# This section creates your navigation links
+# This points directly to your beautiful new logo
+logo: https://raw.githubusercontent.com/saisravan909/AuditFlow/main/img/logo.png
+
+# This creates your professional navigation bar at the top
 nav_links:
-  - title: Home
+  - title: "Home"
     url: /
-  - title: Roadmap
+  - title: "Roadmap"
     url: /ROADMAP.md
-  - title: Contributing
+  - title: "Contributing"
     url: /CONTRIBUTING.md
-  - title: Security
+  - title: "Security"
     url: /SECURITY.md
