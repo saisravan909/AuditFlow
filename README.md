@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/logo.png" alt="AuditFlow Logo" width="200">
+  <img src="https://raw.githubusercontent.com/saisravan909/AuditFlow/main/img/logo.png" alt="AuditFlow Logo" width="200">
 </p>
 
 <h1 align="center">AuditFlow </h1>
