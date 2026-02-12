@@ -1,11 +1,11 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: AuditFlow 🌊
-description: Automated Compliance-as-Docs Engine
+description: Automated Compliance-as-Docs Engine. Bridging the gap between engineering and audit.
 
-# This injects your wave logo into the header
+# This fixes the logo in the header
 logo: https://raw.githubusercontent.com/saisravan909/AuditFlow/main/img/logo.png
 
-# This creates a professional navigation bar
+# This adds your professional navigation menu
 nav_links:
   - title: "Home"
     url: /
