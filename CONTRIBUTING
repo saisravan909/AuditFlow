@@ -1,0 +1,17 @@
+# Contributing to AuditFlow
+
+First, thank you for being here! We are building a bridge between engineering and audit.
+
+### How to Contribute
+- **Documentation:** Help us improve our compliance templates.
+- **Code:** Help us build the scanning engine and CLI.
+- **Ideas:** Suggest new frameworks or security patterns in **Discussions**.
+
+### 🛠️ Technical Setup
+1. Fork the repository.
+2. Create a feature branch: `git checkout -b feature/NewFeature`.
+3. Commit your changes: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin feature/NewFeature`.
+5. Open a Pull Request.
+
+*Note: As the Project Lead, I review all PRs for product fit. Let's build something great!*
