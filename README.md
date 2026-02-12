@@ -1,8 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saisravan909/AuditFlow/main/img/logo.png" alt="AuditFlow Logo" width="200">
+  <img src="https://raw.githubusercontent.com/saisravan909/AuditFlow/main/img/logo.png" alt="AuditFlow Logo" width="250">
 </p>
 
-<h1 align="center">AuditFlow </h1>
+<h1 align="center">AuditFlow 🌊</h1>
+
+<p align="center">
+  <strong>Automated Compliance-as-Docs Engine</strong><br>
+  <em>Bridging the gap between Engineering Reality and Regulatory Requirements.</em>
+</p>
 
 <p align="center">
   <strong>Automated Compliance-as-Docs Engine</strong><br>
