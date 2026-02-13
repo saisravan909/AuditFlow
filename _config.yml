@@ -1,17 +1,19 @@
-remote_theme: pages-themes/cayman@v0.2.0
 title: AuditFlow
-description: Automated Compliance-as-Docs Engine. Bridging the gap between engineering and audit.
+description: Open-source Compliance-as-Docs engine. Bridging the gap between engineering and audit through formal mathematical verification.
+theme: jekyll-theme-cayman
 
-# This fixes the logo in the header
-logo: https://raw.githubusercontent.com/saisravan909/AuditFlow/main/img/logo.png
+# SEO and Social Metadata
+author: Sai Sravan Cherukuri & Sai Saketh Cherukuri
+lang: en_US
+twitter:
+  username: AuditFlow_Project # Change this if you have a handle
+  card: summary_large_image
 
-# This adds your professional navigation menu
-nav_links:
-  - title: "Home"
-    url: /
-  - title: "Roadmap"
-    url: /ROADMAP.md
-  - title: "Contributing"
-    url: /CONTRIBUTING.md
-  - title: "Security"
-    url: /SECURITY.md
+# Plugins for Search Engines
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Internal Links
+url: "https://saisravan909.github.io"
+baseurl: "/AuditFlow"
