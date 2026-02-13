@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saisravan909/AuditFlow/main/img/logo.png" width="200" alt="AuditFlow Logo">
+  <img src="https://raw.githubusercontent.com/saisravan909/AuditFlow/main/img/logo.png" width="200" alt="AuditFlow - Automated Compliance as Docs Engine">
 </p>
 
 # Welcome to AuditFlow 
@@ -8,7 +8,7 @@
 AuditFlow is designed for high-growth engineering teams who are tired of manual spreadsheets. By integrating directly into your CI/CD pipeline, we ensure your security posture is always audit-ready.
 
 <p align="center">
-  <a href="#our-solution" style="background-color: #159957; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Get Started with AuditFlow</a>
+  <a href="#our-solution" class="btn">Get Started with AuditFlow</a>
 </p>
 
 ---
