@@ -1,5 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
-title: AuditFlow 
+title: AuditFlow
 description: Automated Compliance-as-Docs Engine. Bridging the gap between engineering and audit.
 
 # This fixes the logo in the header
