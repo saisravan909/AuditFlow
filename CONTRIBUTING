@@ -1,17 +1,31 @@
-# Contributing to AuditFlow
+# Contributing to AuditFlow 
 
-First, thank you for being here! We are building a bridge between engineering and audit.
+Thank you for your interest in helping us bridge the gap between engineering and compliance! We welcome contributions from DevOps engineers, Security Architects, and Mathematics/CS researchers.
 
-### How to Contribute
-- **Documentation:** Help us improve our compliance templates.
-- **Code:** Help us build the scanning engine and CLI.
-- **Ideas:** Suggest new frameworks or security patterns in **Discussions**.
+## How You Can Contribute
 
-### 🛠️ Technical Setup
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature/NewFeature`.
-3. Commit your changes: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature/NewFeature`.
-5. Open a Pull Request.
+### 1. Technical Development
+We are currently building the core scanning engine. We need help with:
+* **AST Parsing**: Enhancing our ability to parse Terraform (HCL) and Kubernetes (YAML) structures.
+* **Logic Mapping**: Implementing formal verification predicates for specific SOC2 and ISO 27001 controls.
+* **CI/CD Integration**: Developing GitHub Actions and GitLab CI templates.
 
-*Note: As the Project Lead, I review all PRs for product fit. Let's build something great!*
+### 2. Documentation & Research
+Led by **Sai Saketh Cherukuri**, we are documenting the mathematical foundations of our engine.
+* Help us map technical configurations to regulatory requirements.
+* Contribute to our **Research & References** wiki page.
+
+### 3. Bug Reporting
+If you find a security check that yields a "False Positive," please open an **Issue** with a snippet of the code and the expected result.
+
+## Our Process
+1. **Fork** the repository and create your branch from `main`.
+2. If you've added code that should be tested, add tests!
+3. Ensure your documentation is clear (we love **Docs-as-Code**).
+4. Submit a **Pull Request**.
+
+## Community Standards
+We use **GitHub Discussions** for all architectural debates and Q&A. Please join us there to discuss major changes before starting work.
+
+---
+*By contributing, you agree that your contributions will be licensed under the project's Apache License 2.0.*
