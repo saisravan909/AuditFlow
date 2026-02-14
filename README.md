@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/saisravan909/AuditFlow/main/img/logo.png" width="200" alt="AuditFlow - Open Source Compliance as Docs Engine">
 </p>
 
-# Welcome to AuditFlow 🚀
+# Welcome to AuditFlow 
 **The open-source engine that turns complex compliance requirements into living documentation.**
 
 AuditFlow is designed for high-growth engineering teams who are tired of manual spreadsheets. By integrating directly into your CI/CD pipeline, we ensure your security posture is always audit-ready.
@@ -50,8 +50,12 @@ Please read our [Contributing Guide](https://github.com/saisravan909/AuditFlow/b
 This project is licensed under the **Apache License 2.0** - see the [LICENSE](https://github.com/saisravan909/AuditFlow/blob/main/LICENSE) file for details.
 
 ## Project Leadership
-AuditFlow is an initiative born from the intersection of rigorous mathematics and
+AuditFlow is an initiative born from the intersection of rigorous mathematics and scalable cloud engineering.
 
+* **Sai Sravan Cherukuri** – Visionary & Lead Architect
+* **Sai Saketh Cherukuri** – Lead Architect
+  * *M.S. in Mathematics and Computer Science*
+  * Specializing in the algorithmic verification of security controls and formal compliance mapping.
 <p align="center">
   Built with passion for the Open Source Community.
 </p>
