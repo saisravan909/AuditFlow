@@ -40,7 +40,6 @@ We are currently in the **Alpha Phase**. Our goal is a stable V1.0 by late 2026.
 - [ ] **Phase 2:** GitHub Action Integration & SOC2 Mapping
 - [ ] **Phase 3:** Visual Architecture Generator
 - [ ] **Phase 4:** Enterprise Plugin System
-
 ## Contributing
 **We are looking for technical partners!** AuditFlow was founded with a strong product vision, and we are now seeking DevOps engineers and Security Architects to help build the scanning engine.
 
