@@ -44,7 +44,7 @@ We are currently in the **Alpha Phase**. Our goal is a stable V1.0 by late 2026.
 ## Contributing
 **We are looking for technical partners!** AuditFlow was founded with a strong product vision, and we are now seeking DevOps engineers and Security Architects to help build the scanning engine.
 
-Please read our [Contributing Guide](https://github.com/saisravan909/AuditFlow/blob/main/CONTRIBUTING.md) to get started.
+Please read our [Contributing Guide](https://github.com/saisravan909/AuditFlow/blob/main/CONTRIBUTING) to get started.
 
 ## License
 This project is licensed under the **Apache License 2.0** - see the [LICENSE](https://github.com/saisravan909/AuditFlow/blob/main/LICENSE) file for details.
