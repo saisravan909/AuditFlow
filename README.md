@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/saisravan909/AuditFlow/main/img/logo.png" width="200" alt="AuditFlow - Open Source Compliance as Docs Engine">
 </p>
 
-# Welcome to AuditFlow 
+# Welcome to AuditFlow 🚀
 **The open-source engine that turns complex compliance requirements into living documentation.**
 
 AuditFlow is designed for high-growth engineering teams who are tired of manual spreadsheets. By integrating directly into your CI/CD pipeline, we ensure your security posture is always audit-ready.
@@ -19,15 +19,15 @@ Enterprise and Federal teams spend thousands of hours manually updating complian
 ## Our Solution
 AuditFlow is a **Docs-as-Code** pipeline that treats compliance like a unit test. It scans your Infrastructure-as-Code (Terraform, Kubernetes, GitHub Actions) and auto-generates a human-readable "Compliance Readiness" site.
 
-- **Always Current:** Your documentation is rebuilt every time you push code.
-- **Evidence-Based:** Generates automated proof for auditors directly from technical configurations.
-- **Zero Friction:** Fits into existing DevOps workflows.
+* **Always Current:** Your documentation is rebuilt every time you push code.
+* **Evidence-Based:** Generates automated proof for auditors directly from technical configurations.
+* **Zero Friction:** Fits into existing DevOps workflows.
 
 ## Key Features (Planned)
-- **Multi-Cloud Scanning:** Support for AWS, Azure, and Google Cloud patterns.
-- **Framework Mapping:** Pre-built templates for SOC2, ISO 27001, and FedRAMP.
-- **Visual Evidence:** Interactive architecture diagrams via Mermaid.js.
-- **Audit Portal:** A clean, searchable static site output.
+* **Multi-Cloud Scanning:** Support for AWS, Azure, and Google Cloud patterns.
+* **Framework Mapping:** Pre-built templates for SOC2, ISO 27001, and FedRAMP.
+* **Visual Evidence:** Interactive architecture diagrams via Mermaid.js.
+* **Audit Portal:** A clean, searchable static site output.
 
 ## How it Works
 1. **Analyze:** AuditFlow scans your repository for security patterns (e.g., `encryption_at_rest = true`).
@@ -40,6 +40,7 @@ We are currently in the **Alpha Phase**. Our goal is a stable V1.0 by late 2026.
 - [ ] **Phase 2:** GitHub Action Integration & SOC2 Mapping
 - [ ] **Phase 3:** Visual Architecture Generator
 - [ ] **Phase 4:** Enterprise Plugin System
+
 ## Contributing
 **We are looking for technical partners!** AuditFlow was founded with a strong product vision, and we are now seeking DevOps engineers and Security Architects to help build the scanning engine.
 
@@ -49,12 +50,7 @@ Please read our [Contributing Guide](https://github.com/saisravan909/AuditFlow/b
 This project is licensed under the **Apache License 2.0** - see the [LICENSE](https://github.com/saisravan909/AuditFlow/blob/main/LICENSE) file for details.
 
 ## Project Leadership
-AuditFlow is an initiative born from the intersection of rigorous mathematics and scalable cloud engineering.
-
-* **Sai Sravan Cherukuri** – Visionary & Lead Architect
-* **Sai Saketh Cherukuri** – Lead Architect 
-    * *M.S. in Mathematics and Computer Science*
-    * Specializing in the algorithmic verification of security controls and formal compliance mapping.
+AuditFlow is an initiative born from the intersection of rigorous mathematics and
 
 <p align="center">
   Built with passion for the Open Source Community.
